@@ -1,2 +1,7 @@
-# RiskMoon
-About RiskMoon Token contract on Binance Smart Chain (BSC)
+**RiskMoon** – is an evolving platform to leverage risk with dynamic yield-generating strategies from NFTs. Our goal is to be able to have a fully self-sustaining ecosystem, with an entertaining game that allows users to generate revenue with resources like land, weapons, armor, spacecraft, and more. Players would then be able to exchange or stake them — all within the same platform. If you look at these other clones, their main use case is the tokenomics structure itself. We used the name and tokenomics because we admit, it is genius, and we did want to get initial hype by being the antithesis of SafeMoon — but let us take it a step farther and make it, what it is truly capable of.
+
+Gameplay Set on the Moon, the mission will be to risk life elsewhere through deep space exploration. Players rent out vehicles to others that are looking to explore and will be paid in the form of RISKMOON, however, exploration comes with risk and the more risk a player takes with another’s spacecraft could cost them. Each mission causes damage to a spacecraft and the distance one is willing to travel will have an effect on the amount of damage caused. Damages will be paid to the owner of the spacecraft in the form of RISKMOON and will be deducted from the voyage. Every choice you make will have consequences.
+
+Choose your path wisely in your effort to RISKMOON!
+
+Learn more at [https://riskmoon.com](https://riskmoon.com "https://riskmoon.com")
